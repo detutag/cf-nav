@@ -1,7 +1,5 @@
 # 🧭 Cloudflare-Nav - 極簡高效的個人網站導航
 
-<div align="center">
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build](https://img.shields.io/badge/build-Cloudflare%20Pages-orange.svg)
 ![Vanilla JS](https://img.shields.io/badge/es6-Vanilla%20JS-yellow.svg)
